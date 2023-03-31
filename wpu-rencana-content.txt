@@ -2,7 +2,8 @@ Rencan Konten
 
 -Javascript
  *ES6
- *Framework Javascript 
+ *Framework Javascript
+-Struktur data dasar
 -PHP Framework
 -Interview
 -Vlog
